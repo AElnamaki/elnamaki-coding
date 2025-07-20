@@ -1,0 +1,37 @@
+# ==========================================
+# 📁 Python + Jupyter Notebook .gitignore
+# ==========================================
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Ignore Jupyter notebook checkpoints and metadata
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.nbgrader.json
+*.nbstripout
+
+# Ignore Jupyter runtime and security files
+.jupyter/
+.runtime/
+
+# Ignore matplotlib and cache
+*.pdf
+*.svg
+*.eps
+*.png
+*.jpg
+*.jpeg
+.mplconfig/
+.matplotlib/
