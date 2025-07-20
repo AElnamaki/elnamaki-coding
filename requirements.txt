@@ -1,0 +1,22 @@
+# Core Numerical & Symbolic Computation
+numpy>=1.24.0
+sympy>=1.12
+pandas>=2.0.0
+
+# Visualization & Graph Topology
+matplotlib>=3.7.0
+networkx>=3.1
+
+# Optional 3D plotting
+# mpl_toolkits comes with matplotlib (via Axes3D import)
+
+# Deep Learning (Symbolic Perceptrons / Structural Neural Models)
+torch>=2.1.0
+
+# Quantum Simulation & Topological Qubit Models
+qiskit>=1.0.0
+
+# Notebook / Development Tools (Optional but recommended)
+jupyterlab
+ipython
+notebook
