@@ -8,9 +8,6 @@ This repository is a structured tutorial and experimental framework for the stud
 
 ## 📘 Project Overview
 
-> *"Arithmetic is not a static quantity. It is a recursive path through symbolic space."*  
-> — Abdelrhman Elnamaki, *Elnamaki Coding*, IJCA, 2018
-
 This project explores and implements the concepts introduced in the following foundational publications:
 
 - 📄 **Elnamaki, A. (2025).**  
@@ -24,7 +21,7 @@ This project explores and implements the concepts introduced in the following fo
 Elnamaki Coding (EC) is a **recursive arithmetic grammar** that generates structured sequences from seed pairs in $\mathbb{Z}^2$, encoding numbers as **semantic trajectories** through a symbolic manifold defined by Fibonacci dynamics.
 ---
 ## Eploring Elnamaki Space 
-- <img width="1166" height="1190" alt="image" src="https://github.com/user-attachments/assets/7cf08e9a-e892-47ef-8050-a18d2a87b3f8" />
+- <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/7cf08e9a-e892-47ef-8050-a18d2a87b3f8" />
 ---
 
 ### Core Concepts
