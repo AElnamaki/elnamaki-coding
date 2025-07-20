@@ -25,6 +25,12 @@ ENV/
 # Ignore Jupyter runtime and security files
 .jupyter/
 .runtime/
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
 
 # Ignore matplotlib and cache
 *.pdf
@@ -35,3 +41,13 @@ ENV/
 *.jpeg
 .mplconfig/
 .matplotlib/
+# Ignore data and generated files
+*.csv
+*.tsv
+*.log
+*.out
+*.bak
+*.tmp
+*.cache
+cache/
+__results__/
